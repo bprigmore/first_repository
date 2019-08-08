@@ -1,0 +1,1 @@
+These are my notes for the Intro to Git and GitHub course.
